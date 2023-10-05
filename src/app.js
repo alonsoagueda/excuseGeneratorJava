@@ -28,5 +28,7 @@ window.onload = function() {
     );
   };
 };
-
-console.log("Hello Rodrigo");
+function randomElement(array) {
+  return array;
+}
+console.log("Hello Rodrigo from the console");
